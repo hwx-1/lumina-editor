@@ -18,7 +18,7 @@
 
 Lumina Editor 摒弃了传统的“对话框式” AI 交互，将大语言模型深度嵌入到文档创作流中。本项目并非简单的 API 调用演示，而是致力于解决现代 AI 应用开发中的核心工程痛点。
 
-  对于开发者的技术突破点（简历亮点）：
+  对于开发者的技术突破点：
 1.   多模型聚合网关 (Multi-Model Gateway)：   抹平了 OpenAI、Google Gemini、Kimi (Moonshot) 和 DeepSeek 的底层 API 差异，提供统一的调用接口与一键切换能力，实现高可用容灾。
 2.   纯原生 SSE 流式解析 (Native Server-Sent Events)： 抛弃沉重的第三方 AI SDK，基于 Web Streams API 与原生 Fetch 实现了从边缘计算层到浏览器端的数据流式分发，做到真正的“零延迟”打字机渲染效果。
 3.   智能代理路由 (Smart Proxy Routing)：  针对国内网络环境，在 Node.js 底层引入 `undici` 代理引擎，实现了“国外模型走本地代理穿透，国内模型直连优化延迟”  的智能流量调度机制。
