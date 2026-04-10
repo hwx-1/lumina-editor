@@ -1,13 +1,17 @@
    🌌 Lumina AI Editor 
 
 > 一个基于 Next.js 与 TipTap 构建的 Notion 风格 AI 原生富文本编辑器，内置高可用多模型聚合网关。
-> 现在已经实现部署：lowcode-editor-jw68wgqv0-hwx-1s-projects.vercel.app可在线使用
 
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
 
+
+   💻 已实现线上本地部署
+   现在已经实现部署：lowcode-editor-jw68wgqv0-hwx-1s-projects.vercel.app可在线使用
+   
+----
    💡 项目简介与工程价值
 
 Lumina Editor 摒弃了传统的“对话框式” AI 交互，将大语言模型深度嵌入到文档创作流中。本项目并非简单的 API 调用演示，而是致力于解决现代 AI 应用开发中的核心工程痛点。
