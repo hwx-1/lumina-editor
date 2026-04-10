@@ -6,10 +6,11 @@
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
+----
 
 
    💻 已实现线上本地部署
-   现在已经实现部署：lowcode-editor-jw68wgqv0-hwx-1s-projects.vercel.app可在线使用
+   在线演示： 👉[ lowcode-editor-jw68wgqv0-hwx-1s-projects.vercel.app ] 👈
    
 ----
    💡 项目简介与工程价值
