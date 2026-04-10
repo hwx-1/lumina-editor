@@ -10,7 +10,8 @@
 
 
    💻 已实现线上本地部署
-   在线演示： 👉[ lowcode-editor-jw68wgqv0-hwx-1s-projects.vercel.app ] 👈
+   
+   在线演示： 👉[https://lumina-editor-blue.vercel.app/] 👈
    
 ----
    💡 项目简介与工程价值
